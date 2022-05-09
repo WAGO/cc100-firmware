@@ -1,3 +1,7 @@
+<div style="text-align: left" >
+<img src="images/0751_9301.png" width="500"/>
+</div>
+
 # How to install:
 WAGO recommends exclusive use of original WAGO SD cards, as the new firmware has been tested and released based on these cards. If using cards other than WAGO, WAGO cannot guarantee and take responsibility for proper functioning of the controller/coupler.
 Installation
